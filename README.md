@@ -12,3 +12,6 @@ DURATION:4 WEEKS
 MENTOR:NEELA SANTHOSH
 
 Automated report generation using Python for data processing and visualization
+
+output:
+
